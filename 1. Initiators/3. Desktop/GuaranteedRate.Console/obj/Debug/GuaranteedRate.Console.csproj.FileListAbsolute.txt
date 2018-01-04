@@ -1,0 +1,6 @@
+C:\Interview\1. Initiators\3. Desktop\GuaranteedRate.Console\bin\Debug\GuaranteedRate.Console.exe.config
+C:\Interview\1. Initiators\3. Desktop\GuaranteedRate.Console\bin\Debug\GuaranteedRate.Console.exe
+C:\Interview\1. Initiators\3. Desktop\GuaranteedRate.Console\bin\Debug\GuaranteedRate.Console.pdb
+C:\Interview\1. Initiators\3. Desktop\GuaranteedRate.Console\obj\Debug\GuaranteedRate.Console.csprojResolveAssemblyReference.cache
+C:\Interview\1. Initiators\3. Desktop\GuaranteedRate.Console\obj\Debug\GuaranteedRate.Console.exe
+C:\Interview\1. Initiators\3. Desktop\GuaranteedRate.Console\obj\Debug\GuaranteedRate.Console.pdb
